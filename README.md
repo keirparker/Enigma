@@ -3,7 +3,7 @@
 An Object Oriented approach to simulating every part of the famed Enigma machine. 
 In this project, each individual part of the machine is simulated, from PlugLeads and PlugBoards to the multiple rings and rotors (even the pesky rotor double step).
 
-to run:
+To run:
 ```python
 Example1 = Enigma(input='HELLOWORLD', rotors=['I', 'II', 'III'], reflector='B', plugs=['HL','MO','AJ','CX','BZ','SR','NI','YW','DG','PK'], pos='AAZ', rings=['01', '01', '01'])
 assert(Example1.run_machine()=="RFKTMBXVVW")
