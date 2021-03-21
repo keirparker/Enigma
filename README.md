@@ -1,6 +1,6 @@
 # Enigma
 
-An Object Oriented approach to simulating every part of the famed Enigma machine. 
+An Object Oriented approach to simulating every part of the famed [Enigma](https://en.wikipedia.org/wiki/Enigma_machine) machine. 
 In this project, each individual part of the machine is simulated, from PlugLeads and PlugBoards to the multiple rings and rotors (even the pesky rotor double step).
 
 To run:
