@@ -122,4 +122,4 @@ df.plot(kind='bar')
 There is already functionality for this in the 'detection' algorithims the translation library uses, but there would be definite value in creating such a visual aid.
 
 The end
-Thanks for the opportunity to take on this project, it was a lot of fun and I learned a lot.
+
